@@ -1,0 +1,19 @@
+{
+  "name": "coding-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matweaver7/codingChallenges.git"
+  },
+  "author": "matweaver7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matweaver7/codingChallenges/issues"
+  },
+  "homepage": "https://github.com/matweaver7/codingChallenges#readme"
+}
