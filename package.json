@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matweaver7/codingChallenges/issues"
   },
-  "homepage": "https://github.com/matweaver7/codingChallenges#readme"
+  "homepage": "https://github.com/matweaver7/codingChallenges#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
 }
