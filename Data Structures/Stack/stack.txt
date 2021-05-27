@@ -1,0 +1,17 @@
+General Info
+    This is a data structure that holds stuff.
+    Think pile of plates. 
+    LIFO (Last in First out)
+    Stacks are used for depth-first searches.
+
+Structure
+    Stacks
+    Peek -- return element at top of list
+    Push -- adds something to the list
+    Pop -- removes top element of the list
+
+
+Implementation
+    Implement with an array (have to handle resize)
+    Implement with an linked list
+    Implement with a vector (c)

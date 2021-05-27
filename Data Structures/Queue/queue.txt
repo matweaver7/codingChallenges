@@ -1,0 +1,17 @@
+General Info
+    This is a data structure that holds stuff.
+    Think like a roller coaster line.
+    FIFO (First in First out)
+    Stacks are used for depth-first searches.
+
+Structure
+    Queue
+    Peek -- return element at top of list
+    Enqueue -- adds element to beginning of the list
+    Dequeue -- removes element from last of the list
+
+
+Implementation
+    Implement with an array (have to handle resize)
+    Implement with an linked list
+    Implement with a vector (c)
