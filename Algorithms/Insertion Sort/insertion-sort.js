@@ -1,4 +1,6 @@
-// the whole idea of bubble sort is to filter items going one by one
+// the whole idea of Insertion Sort is to filter items going one by one
+// building a sub-list and then going element by element
+//and finding where they fit in the sub-list
 // O(n^2)
 // it creates a small mini list (of two) and then addes sorting through the list
 // Step 1 − If it is the first element, it is already sorted. return 1;
